@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialAppTest</string>
+    <string name="gps_settings">GPS Settings</string>
+    <string name="head_title">NFC Location</string>
+    <string name="nfc_settings">NFC Settings</string>
+    <string name="main_activity_text">Touch NFC tag to read it</string>
+    <string name="got_tag_uid">Tag read successfully!</string>
+</resources>
