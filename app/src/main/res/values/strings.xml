@@ -5,4 +5,12 @@
     <string name="nfc_settings">NFC Settings</string>
     <string name="main_activity_text">Touch NFC tag to read it</string>
     <string name="got_tag_uid">Tag read successfully!</string>
+    <string name="imei_granted">Permission is granted</string>
+    <string name="imei_denied">Permission is denied</string>
+    <string name="imei_permission_required">Your phone IMEI will be used to identify messages from this device</string>
+    <string name="location_permission_required">Your location will be used only to identify NFC tags</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="imei_unavailable">Can not get IMEI</string>
+    <string name="location_unavailable">Can not get location</string>
 </resources>
